@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Office 1F","order":6,"parentId":5,"scrollX":1165.0909090909092,"scrollY":783.2727272727273},
+{"id":2,"expanded":false,"name":"School Classroom","order":3,"parentId":5,"scrollX":640.8,"scrollY":406.79999999999995},
+null,
+{"id":4,"expanded":true,"name":"School","order":1,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1023.2727272727274},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":4,"scrollX":1182.5454545454545,"scrollY":656.7272727272727},
+{"id":6,"expanded":false,"name":"Lab Room","order":4,"parentId":5,"scrollX":1182.5454545454545,"scrollY":656.7272727272727},
+{"id":7,"expanded":false,"name":"Computer Room","order":5,"parentId":5,"scrollX":1165.0909090909092,"scrollY":783.2727272727273}
+]
